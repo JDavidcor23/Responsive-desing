@@ -566,14 +566,14 @@ main{
 	background-repeat: no-repeat;
 	vertical-align: bottom; 
 }
-
 .plans-container--slider{
 	display: flex;
-	height: 316px;
+	height: 330px;
 	overflow-x: scroll;
 	overscroll-behavior-x: contain;
     scroll-snap-type: x proximity;
 }
+
 footer{
 	display: flex;
 	width: 100%;
